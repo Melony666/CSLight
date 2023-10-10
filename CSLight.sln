@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSLight", "CSLight\CSLight.csproj", "{B4AD6037-4E69-4DF8-9C48-0EFD5D60CEDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4AD6037-4E69-4DF8-9C48-0EFD5D60CEDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4AD6037-4E69-4DF8-9C48-0EFD5D60CEDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4AD6037-4E69-4DF8-9C48-0EFD5D60CEDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4AD6037-4E69-4DF8-9C48-0EFD5D60CEDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D8E9AFD-C3E7-491C-8623-31F5B29F2248}
+	EndGlobalSection
+EndGlobal
