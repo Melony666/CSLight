@@ -77,6 +77,7 @@ namespace CSLight
             int age = 18;
             Console.WriteLine("Привет, тебе завтра исполнится " + age + " лет!");
             Console.WriteLine("Привет, тебе завтра исполнится " + (age + 1) + " лет!");
+            Console.WriteLine("Hello, Alex");
         }
     }
 }
